@@ -1,0 +1,330 @@
+
+{ "journey": {
+        "days": [
+            {
+                "date": "2025-01-02",
+                "title": "",
+                "content": "Bumble'da matchledigimiz ve konusmaya basladigimiz ilk gun bugun, yeni yilin hemen sonrasi. \n\nAslinda ilk Haziran 2022'de matchlesmisiz, bunu sen hatirladin. Ben hatirlayamazdim bile.\n\n (Sanirim bu ilk gunumuzden itibaren konusmayi hic durdurmadik, hic de durdurmayacagiz.) ",
+                "image": "img/bumble_ss.jpg"
+            },
+            {
+                "date": "2025-01-03",
+                "title": "",
+                "content": "Bugun Instagram'da konusmaya basladik, zaten Bumble'a sadece senden mesaj geldi mi diye bakmaya baslamistim ayni gun icinde bile. Daha once de Instagram'de eklesmisiz ama ya sen ya da ben (kesinlikle sen!!) temizlik sirasinda silmisiz birbirimizi. Bende eski konusmalarimiz duruyor hala, cikip okudum. Yine uzun uzun konusmusuz aslinda ama hep gunluk sohbetler seviyesinde kalmis, muhtemelen BFF'de tanistigimiz icin ve mesguliyetlerimiz oldugu icin derinlesmemisiz. Sonra araya hayat girmis, bulusmaya ayarlariz demissiz ve orada kalmis. Acaba o sirada bulusmus olsak, anlasacagimiz icin arkadas olsak, birbirimizden hoslanmaya baslamamiz ne kadar surerdi? Merak ediyorum bazen. Tabii ben yine Amerika'ya tasinacagim icin belki asla adim atmazdik ikimiz de. Gerci kimi kandiriyorum... burda da bile bile basladik.",
+                "image": "img/instagramfirst.png"
+            },
+            {
+                "date": "2025-01-04",
+                "title": "",
+                "content": "Kelt oldugunu ogrendim! Eh, kiziliginin bir kaynagi olmaliydi.. Hem de Sivas'a gocmusler, kim tahmin edebilirdi? (Hatta, zamaninda Sivas'a gocen Keltlerin soyundan birinin bir gun benim sevgilim olabilecegini kim tahmin edebilirdi???  Bence ikimiz de ettik aslinda ama nys). Basta sadece saka yapiyorsun, iki saniye bahsini edip geceksin diye dusunmustum; ama sehirlerin/koylerin tarihine olan ilgini ve kokenlerle ilgili olan bilgilerini dinledikce etkilendim.",
+                "image": "img/sivasagoc.png"
+            },
+            {
+                "date": "2025-01-05",
+                "title": "",
+                "content": "Bana ilk ses kaydini gonderdin! Sesin o kadar guzel ki... Her kelimenin nasil soyledigini tekrar tekrar dinledim. Bugunu ozel yapan bir baska sey de exlerimizden bahsettigimiz bir gun oldu, daha cok sen anlattin ben dinledim. Sen anlatirken duygularini paylastigin icin kendimi sana daha da yakin hissettim. Ben hala anlatmaktan cekiniyorum cunku idk, kolay acilamiyorum glb. Derin konulara da giriyoruz. Sanki yillardir tanisiyormusuz da simdi sadece eksik parcalari tamamliyormusuz gibi. Exiyle yasayan ve ona donecegini bekledigini dusundugun birinin senin exin olmasi biraz sok oldu ama, itiraf etmeliyim. Bu benim icin asla kabul edilebilir bir sey olmazdi, yani how?? Aklin nerdeydi? djlskaf. Gerci anlattigin kadariyla cok hizli baslamis ve hizli gelismis, olabiliyor boyle seyler.. Konusmalarimiz boyunce birbirimize yakinlastik, hayata bakis acilarimizi anlamaya calistik. Her yeni bir seyden bahsettiginde seni daha iyi tanimak, daha iyi anlamak istedigimi farkediyorum.",
+                "image": "img/instagramvoice.png"
+            },
+            {
+                "date": "2025-01-06",
+                "title": "",
+                "content": "Telefona baktigimda bildirimini gormek istedigim bir gun oldu bugun, hatta telefonu elime alma sebebim senden bildirim gormekti. Bu duygu o kadar uzun zamandir hissetmedigim bir sey ve heyecan verici ki... Telefonu elime aldigimda ilk yaptigim sey seninle olan sohbeti acmak oluyor. Daha yeni tanistigim birinin mesajlarini bu kadar kisa surede bekleyecegimi, gorunce bu kadar mutlu olacagimi tahmin etmezdim. Cok sansliyim ki sen de surekli yazdin, ilgime karsilik verdin. Bu bagimliligin tehlikeli bir yone dogru gittigini biliyorum ama durdurmak da istemiyorum kendimi.", 
+                "image": "img/catwaitingtext.png"
+            },
+            {
+                "date": "2025-01-07",
+                "title": "",
+                "content": "Benim dogum gunum! Hem Turkiye hem de California saatine gore dogum gunumu kutladin. Bu detay beni cok duygulandirdi. Dogum gunlerimi onemseyen bir insan olmadim hic, siradan bir gun gibi geciririm normalde. Ama sen... Beni bir haftadir bile tanimayan biri olarak sadece \"Dogum gunun kutlu olsun!\" yazip gecebilecekken saat farkini dusunmen o kadar ince bir hareketti ki. Simarik cocuk gibi utandim resmen (bir de ben hatirlatmistim sana kutlamadin diye..). Takvimine kalici olarak eklendigimi de daha sonrasinda soyledin. Hayatina yavas yavas dahil oldugumu hissetmek cok guzel. -Ha, bir de Los Angeles yanginlari basladi... Mumlari fazla hizli uflemisim.",
+                "image": "img/fires.png"
+            },
+            {
+                "date": "2025-01-08",
+                "title": "",
+                "content": "Ilk discord konusmamizi bugun gerceklestirdik. Sadece 2 saat surdu, sonrasinda uyumaya gittin. Su an 12 degil de sadece 2 saat konustugumuzu hayal edebiliyor musun? O ilk konusmaya baglandigimdaki heyecanimi hatirliyorum. Ama kotu de hissediyordum seni VPN'le falan ugrastirdigim icin, ama ugrasman da hosuma gidiyordu acikcasi. Ilginctir ki, sanki daha dun konusmusuz gibi sohbet etmeye basladik. Belki de bu yuzden simdi saatlerce konusabiliyoruz, ta en basindan beri bu kadar rahat ve dogal aramizda her sey.",
+                "image": "img/discordcall.png"
+            },
+            {
+                "date": "2025-01-09",
+                "title": "",
+                "content": "Bugun benim icin onemli bir gun, cunku gun icerisinde de seni dusunmeye basladim. Sadece konusurken degil, gunun cogu aninda aklimda oldugunu farkettim. Dinledigim sarkilarda, yolda yururken gordugum siluetlerde seni aradigimi farkettim. Hani uyansan da sana yazdam, keske su an konusuyor olsak gibi dusunceler. Bu beklemedigim bir seydi, kendime sasirdim. Bir insanin bu kadar hizli hayatima dolabilecegini dusunmezdim. Endiselendirici ama ayni zamanda guzel gelen bir his.",
+                "image": "img/habibi.jpg"
+            },
+            {
+                "date": "2025-01-10",
+                "title": "",
+                "content": "Artik anlasmasi zor biri oldugun tescillendi... Kacisin yok. Zaten belli oluyordu, zor biri olman hosuma gidiyor. Her yeni kesfettigim yon seni daha da cekici kiliyor gozumde ve bunun asla duracagini sanmiyorum. Biraz daha tanimak icin spotifyda *beyendigin* sarkilari bir playliste toplayip benimle paylasmani istedim. O playlisti loopladim tum gun, sarkilari tek tek dinledim. Muzik zevkimizin ortak cikmasi cok guzel degil mi? Gunluk konusmalarimizda bir suru ortak yonumuzu kesfederken bunun da uymasi biraz fazla degil mi?? Sanki ALLAH bizi birlestirmek icin her detayi dusunmus gibi.",
+                "image": "img/difficulty.png"
+            },
+            {
+                "date": "2025-01-11",
+                "title": "",
+                "content": "Uzun bir date gerceklestirdik! Beyin MR'ini inceledik, daha once kimse icini bana bu kadar acmamisti.. Hastaneye giderken gergin yonunu gordum ilk defa. Yaninda olup rahatlatabilmek, seninle hastaneye gidebilmek, beraber lobide beklemek ve mumkunse iceride elini tutmak istedim. Sen gecmisteki deneyimlerinden, annenden bahsettikce daha da sarip sarmalamak istedim. Ama bunlari boyle soyleyememek de uzdu cunku bu kadar hizli bunlari hissetmem mantiksiz, hem de soylemek hicbir sey degistirmeyecek, yaninda olabilmem mumkun degil. Neyse ki gunun sorunsuz gecti ve sonrasinda keyfin yerine geldi. \n\n Upuzun bir date yaptik, en buyuk highlighti tasarladigimiz Rolls-Royce oldu! Tane tane renkleri bulup degistirmen cok tatliydi, detaylara bu kadar onem gosteriyor olman ve istedigin yeri bulamadiginde bir suru kere tum seceneklere tekrar tekrar bakman cok hosuma gitti. Ben o kadar sabirli miyim bilmiyorum.. Sanmiyorum. Butun planlamalarimizi ve detaylari duzenlemeyi sen yapabilirsin, gercekten keyif aldigini hissettim ve benim icin de seni izlemek cok keyifliydi.",
+                "image": "img/rollsroyce.png"
+            },
+            {
+                "date": "2025-01-12",
+                "title": "",
+                "content": "Whatsapp'tan konusmaya basladik bugun. Discordda konustugum birinden tatli bir hanimefendinin numarasini kaptim ve hemen mesajlasmaya basladim. Seninle konusurken de seninle konusmak cok guzel hissettirdi. Benimle konusmaya heyecanlandigini gozlerimle gormek de cok hosuma gitti.",
+                "image": "img/whatsapp.png"
+            },
+            {
+                "date": "2025-01-13",
+                "title": "Base 879",
+                "content": "Hitap listeleri yapip birbirimize anlasmalar teklif ettik, artik ikimiz de rahat duramiyoruz. Seninle konusurken cumle sonuna sevgilim, hayatim vs. eklemek istiyorum ve her seferinde kendimi tutuyorum. O kadar seni sahiplenmek istiyorum ki.. daha tanisali 10 gun olmus bu nee diyip duruyorum kendime. Ama sen de fenasin, sen de farkli degilsin. Oyle hissettiriyorsun. Karsilikli taahhutlu imzalar teklif ettik birbirmize, hangi hitaplarin karsiliginda nasil commit etmenin bize neler ifade ettigini anlattik; ama boyle ciddi bir konuyu bile o kadar ayni wavelengthte eglenerek konususuyoruz ki.. Harika. Tabii ikimiz de mutlaka imza istiyoruz, ve taahhutleri dolmuyor tekliflerin. Ikimiz de baglanmak istiyoruz snrm.s Aramizda normal yok. Malesef ayni konusmanin sonunda, geceye dogru konu depresyona gitti. Twitterimda gordugun \"depresif insanlar benden uzak dursun\" lafima takildigini, bunun seni uzdugunu, cunku kronik depresyonun oldugunu soyledin. En basindan beri cok ruya gibi giden konusmamizin gercek oldugunu, beni ne kadar uzebilecegini ilk bugun farkettim. Canimin tekrar yanmasindan o kadar cok korkuyorum ki, hayattaki en buyuk korkum bu sanirim. Ve sana bu izni verdigimi goruyorum yavas yavas. Red flag seviyorum diye sakasini yapiyoruz ve beynimde bu sefer gercekten canlar caliyor. Aglayarak uyuyakaldim bugun. Seninle alakali hicbir sey yok ama bu konuda nasil hissettigimi anlatabilmem de cok zor. Canimi yakmandan cok korkuyorum, yakabilecegini biliyorum, sana yavasca kibriti uzatiyorum. Hic yakmayacagina guvenmek istiyorum.",
+                "image": "img/discombobulated.png"
+            },
+            {
+                "date": "2025-01-14",
+                "title": "",
+                "content": "Arkadaslarina benden Amerikali Gelin diye bahsettigini ogrendim, herkese lakap takarken benimkisi boyle olusmus. Bu hem komik, hem gercek (INS AMIN), hem de endiselendirici?? Daha annemin adini bile ogrenmedin ama gelecekteki esini bulmus gibi hissediyorsun, hmmm. \n\n Simdiye kadar anlattigin exlerinde surekli hizli baslayip kendini hic beklemedigin hizli bir iliski icinde buldugunu anlattigin icin, daha dogru duzgun tanimadan beni oyle bir lakap takman biraz garip hissettirdi. Mutlu bir gariplilik ama bu. Normalde ,,hiii kesin lovebombing'' diyecegim bir duruma beni evlenecegin insan olarak gormen fikri hosuma gitti. Ikimiz de lovebombinkliyoruz galiba yapicak bir sey yok. Ama belki de bu sefer gercekten farkli, belki de bu sefer ikimiz de ayni seyleri hissediyoruz ve bu yuzden bu kadar dogal ilerliyor her sey?",
+                "image": "img/uhaul.png"
+            },
+            {
+                "date": "2025-01-15",
+                "title": "",
+                "content": "Onemli soru: Karbonik maserasyon mu anearobik colombia mi?\n\n Bu yolculuga cikali 2 hafta oldu! Bir kahve yapma ve sevgiliyi opme molasi veriyoruz... (fr, opucuk at tam su an)",
+                "image": "img/maserasyon.png"
+            },
+            {
+                "date": "2025-01-16",
+                "title": "",
+                "content": "Ilk defa ruyamda seni gordum (hem de NSFW bir ruyaydi hehe). Bu benim icin cok ozel cunku normalde ruya goren bir insan degilim, kesikli uyuyan bir insan da degilim. Seninle aktif konusmaya basladigimizdan beri bildirimlerimi durdurmuyorum geceleri, bir sey yazdiginda uyanmak ve okumak istiyorum. Belki de bu yuzden, geceleri sana uyandigim icin ruyamda seni gordum. Ya da belki de cok derin dusunmeme gerek yok, duz ve net seni arzuluyorum. O kadar cekici geliyorsun ki bana, kendimde kesfetmedigim yonlerimi kesfedicekmisim gibi hissediyorum. BUYUK HiSSEDIYORUM jkdsaf. \n\nHer yeni gun sana karsi hislerim buyuyor, derinlesiyor. Sadece romantik ruhsal baglantimiza odaklaniyordum, ama fisiksel olarak da cekim hissettigim net. Bu kadar guclu hisler biraz korkutucu, ama heyecan verici.",
+                "image": "img/goingdown.png"
+            },
+            {
+                "date": "2025-01-17",
+                "title": "Base 7638+1",
+                "content": "Bugun yakin arkadasim Saliha'ya senden bahsettim. Bunu yapmak benim icin buyuk bir adim aslinda. Arkadaslarimla nasil iletisime gectigimi bilmiyorsun, ama duygularimi kendime bile tam olarak aciklamazken, seni yakin oladugum birine anlatmak istemek... bu benim icin yeni bir sey. \n\n Gecen hafta gun icinde seni dusunmeye bahsettigimi farketmistim ya, o durum hic gecmedi. Seni dusunmedigim bir an olmamaya basladigi icin, ve sonrasinda depresyona giden konularda anxious hissetince de bi reality-check almak istedigim icin de anlatmak istedim seni. Bu duygularin gercek oldugunu, hayal gormedigimi, kendimi bosa kaptirmadigimi bilmem gerekiyordu sanirim. Sadece benim kalbimde ve beynimde varolman yetmedi, seni arkadaslarim da bilsin istedim. \n\n Ayrica, bugun bana yanlislikla askim dedin! Hemen sildin gerci. (+1 base'i ekstra opucukle kazandim hehe). ",
+                "image": "img/calendar.png"
+            },
+            {
+                "date": "2025-01-18",
+                "title": "Base 100.001",
+                "content": "Cok guzel bir gun gecirdik! Benimle uyudun, uyandin, telefonu hic kapatmadik. Her saniyesi cok harikaydi. Bunlari goremiyor olmak uzucu ama en azindan sesini duyabiliyorum, en azindan orada oldugunu biliyorum. Ayrica, gordugum ruyanin da etkisiyle herhalde :p, intimate anlarda nasil sesler cikardigimizi duyduk. Hala hayal ettigimde duyabiliyorum. Ah... \n\n Bazen dusunuyorum da, boyle telefonda da olsa birlikte uyanmak, birlikte uyumak... Gelecekte bir gun gercekten ayni yatagi paylastigimizda nasil olacak? Her sabah yuzunu gormek, sana dokunabilmek, sarilabilmek... Hayali bile cok guzel ve bir gun gercek olacak, biliyorum. Nasil bu kadar eminim bilmiyorum, ama biliyorum. Ve o gune kadar bu anlarla idare edecegiz. Her gun biraz daha yakinlasarak, her gun biraz daha baglanarak...",
+                "image": "img/dinekarsi.png"
+            },
+            {
+                "date": "2025-01-19",
+                "title": "Base 555.555",
+                "content": "Birbirimize sevgilim demeye basladik! Tum aksam goruntulu konustuk, guzel gulumsemeni surekli gordum. Testler cozduk, film izledik, soru cevaplar yaptik.. Hala bana bahsetmekten kacindigin konular var. Cevabini cok begendigimi soyledigim noktada gozlerini dolduracak seviyede kacindin, uzuldugunu gordum, ve ne oldugunu sordugumda bahsetmek istemedigini soyledin. Bu anlar beni endiselendiriyor, sormak istiyorum, ama sinirimi asmak istemedigim icin elimden de bir sey gelmiyor. Umuyorum ki zamanla benimle her dusundugunu paylasabilirsin sevgilim. Ah, sana sevgilim demek o kadar guzel ki!",
+                "image": "img/lovecat.jpg"
+            },
+            {
+                "date": "2025-01-20",
+                "title": "",
+                "content": "Ilk dizimizi bitirdik, cok begenmedik. Ilk ciddi anlasmazligimizi da bugun yasadik. Insecure hissettigin bir konuda sana iltifat etmeye calistigim icin sinirini bozdum. Benim icin simarikligina banter olarak baslayan bir konuydu, ne zaman ciddiye dondugunu ve gercek anlamda seni germeye basladigini anlamakta zorlaniyorum. Boyle anlarda ben zorlanip arada kalinca sen daha da uzaklasiyorsun benden, sonrasinda ben kendimi toparlamakta zorlaniyorum. Sen benimle konusmak istemedigini soyledigin icinm, ben konusmak istedigimi net soylemedigim icin birbirimize kirildik.",
+                "image": "img/perfectlysplendid.png"
+            },
+            {
+                "date": "2025-01-21",
+                "title": "",
+                "content": "Is yerindeyim ve calisirken uyuyusunu izliyorum. O kadar tatlisin ki! Her kucuk hareketin cok hosuma guduyor. Nasil da huzurlu uyuyorsun oyle.. Yanyanayken de boyle uyuyacak miyiz? Bakmadan duramiyorum. Sanki gozumu ayirirsam bir sey kaciracakmisim gibi, bir sey olacakmis gibi. Kendimi cok sapsal hissediyorum ama napayim, izlemeden duramiyorum iste. Calisabiliyor muyum? Kime ne hehe. \n\n Ama askim.. sesini kapatmayi unutmusuz! Kulaklik taktigim icin farketmemisim ve bir sure butun laba senin uykudaki horuldayisini dinletmisim djklsafg. Neyse ki duymadik dediler ama bilemiyorum ahah. ",
+                "image": "img/atwork.png"
+            },
+            {
+                "date": "2025-01-22",
+                "title": "",
+                "content": "Bana TEMU'dan hediye aldin! Cok merak ediyorum!! Hediyelere nasil tepki verebilecegimi ogrenince anxious hissettin, begenmezsem ve bunu acikca soylersem daha kotu hissedebilecegini paylastin. Bu cok dogal bir sey, ama hic sanmiyorum ki bana aldigin bir hediyeyi begenmeyeyim. ana hediye almayi dusunuyor olma fikrin bile yeterli, hediyenin kendisinden cok bu dusuncen benim icin degerli.",
+                "image": "img/sleepyclub.png"
+            },
+            {
+                "date": "2025-01-23",
+                "title": "",
+                "content": "MBTI testi cozdun! Sorulari uzun uzun cevaplaman cok tatli, bayiliyorum sana. Her soruya ozenle yaklasin, her detayi dusunmen, bazen ,,hmm bu tam beni yansitmiyor'' deyip tekrar dusunmen... Seni daha yakindan tanima firsati buluyorum, test cozmelerimize bayiliyorum. Ama bilmiyorum, bazen yanlis bir soru gelince geriliyorsun, o yuzden cekiniyorum da. Neyse ki bu testteki sorulari biliyordum. \n\n Sen de benim gibi INTJ ciktin, ama S/J aspecting %51'deydi. Daha onceden attigim ISTJ vs INTJ postunu okuyup ISTJ'ye daha yakin hissettigini soylemistin. Ben bunu sana hatirlatinca ISTJ olduguna karar verdin. ",
+                "image": "img/intjistj.png"
+            },
+            {
+                "date": "2025-01-24",
+                "title": "Base 2.000.256+2",
+                "content": "Bugun ilk virtual yolculugumuza ciktik! Trans-Siberian Express ile Moskova'dan yola cikip (tabii once bir iki gun Moskova'daki kulturel yerleri ve guzel yemek yapan yerleri gezdik) Beijing'e kadar pek cok yerde dura dura gidecek tren planini takip ettik. Trende cok kalamayacak olmamiz uzdu, fazla otelde konaklamaca koymuslar. Bir de istedigimiz tarzda yerleri gezdirmediler ama olsun. Notlarimizi aldik, gercekten yola cikacagimizda harika bir tatil olacagina cok eminim!\n\n O kadar sabirsizlaniyorum ki seninle beraber yeni yerler kesfetmeye.. Biri zamani hizlandirabilir mi?",
+                "image": "img/express.png"
+            },
+            {
+                "date": "2025-01-25",
+                "title": "",
+                "content": "OPUCUK MOLASI!",
+                "image": ""
+            },
+            {
+                "date": "2025-01-26",
+                "title": "",
+                "content": "18 saat boyunca konusmadaydik. ON SEKIZ!! Unrailed oynadik ve senin oyun oynarken nasil odaklandigini gordum. Substance izedik ve absurtlugune tepkilerini gordum... Her yaptigimiz bir seyde yeni yonlerini kesfetmek cok hosuma gidiyor. Hani, bu bitecek bir sey de degil ki. Bahane ariyorsun diyordun ama, saga bakisinda farkli bir bakis yapiyorsun ve cok hosuma gidiyor. Vaktimi seninle gecirmek favori aktivitem oldu, her ne yaparsam yapayim hep seninle olsun istiyorum. 18 saat nasil gecti anlamadim bile.",
+                "image": "img/unrailed.png"
+            },
+            {
+                "date": "2025-01-27",
+                "title": "",
+                "content": "Bugun sozde erken kalkip ofise gidecektim ama seni birakamadim. Hayatta hep yapmaktan en cok keyif aldigim, uzun sureli sevdigim tek sey isim ve arastirmam oldu. Ama seninle tenistigimdan beri o kadar cok sadece seni istiyorum ki. Hani diyoruz ya, evlenince evden cikmayiz diye. Sikilirsin falan diyorsun hatta. Seninle gecirdigim her an o kadar mutluyum ve huzurluyum ki, omrumuzu bir odada gecirdigimiz hayat idealim gibi geliyor. Seninle gecirdigim her an, her kucuk sohbet, her gulumsemen.. Ah askim benim.",
+                "image": "img/capricorn.jpg"
+            },
+            {
+                "date": "2025-01-28",
+                "title": "",
+                "content": "MOLA!",
+                "image": "img/kissmenow.jpg"
+            },
+            {
+                "date": "2025-01-29",
+                "title": "",
+                "content": "Bugun ilgincti. Sen disarida telefonda rahat konusamayinca ben gerildim. O an kendimi uzak ve kopuk hissettim, sen ittiriyorsun gibi geldi. Aslinda ben gerilince sen daha da gerildin. Tek istedigim seninle rahatca konusabilmekti ama durumunu anlayamadim, empati kuramadim. Sen kendini sucladin ama aslinda benden kaynaklanan bir anlasmazlik yasadik. Ben senin ortamini dusunmeden sadece kendi duygularima odaklandim. Sadece ciddi ve ifadesiz konusman nedense benden nefret ediyormussun gibi hissettirdi. Seni daha da germek yerine, seni anlayip desteklemem gerekirdi. Ozur dilerim. Bu deneyim bana senin konfur alanina daha fazla saygi gostermem gerektigini ogretti.",
+                "image": "img/miscommunication.png"
+            },
+            {
+                "date": "2025-01-30",
+                "title": "",
+                "content": "Aldigim plaklar sana ulasti! Umarim diledigin gibi bir koleksyonun baslangicini yapabilmisimdir. Her birini secerken cok dusundum ve evet UC tane olmaliydi (hehe). The record'u alacagima emindim ama diger ikisi dusundurdu. Almak istediklerimin stokta olmamasi ya da direkt ulkede olmamasi da sinir bozucu? Hele Hadise'nin plak yapmamasi... nys. Bu hediye su an cok pratik degil, su anda calacak bir ekipmaninin olmamasi uzucu; ama onu da alacagiz zamanla, koleksiyon sonucta. Ileride evimizin duvarlarindada ya da kitaplikta koleksiyonunu dusunuyorum ve o kadar guzel ki. Sen cok guzelsin.",
+                "image": "img/therecord.jpg"
+            },
+            {
+                "date": "2025-01-31",
+                "title": "",
+                "content": "Hediyelerin elime ulasti! O kadar tatli mini trinketler aldin ki bana, bir suru daha olsa ve daha cok hayatima dahil olsan keske. Hayatimin her kosesinde ol, her yerde senin dokunusun olsun istiyorum. Masama baktigimda, telefonuma baktigimda, ofiste kitaplarimin ustune, kullandigim her seyde her yerde senden bir parca olsun.  Uzakta olsan da, bir sekilde hayatimin her alaninda varsin, bunu hissetmek cok guzel.. Keske sadece esyalarla degil, gercekten yanimda olabilsen.",
+                "image": "img/penguen.png"
+            },
+            {
+                "date": "2025-02-01",
+                "title": "",
+                "content": "Ah sevgilim, bu haftasonu dateimiz o kadar guzel basladi ki! Bittiginde 2 gunun nasil gectigini anlamadik ikimiz de... Bana League of Legends oynadin. Matched app'inden ortak bir film bulup (Radioactive) onu izledik. Unrailed'de tren yolu yaptik. Grammy betlerimizi listeledik (ASKIM BUGUN GRAMMIES VAR!!! -uyandin ama yoktu)",
+                "image": "img/grammies.png"
+            },
+            {
+                "date": "2025-02-02",
+                "title": "Base 5.850.000+3",
+                "content": "IKIMIZ DE KAZANDIK! hehe.",
+                "image": "img/kalpsac.png"
+            },
+            {
+                "date": "2025-02-03",
+                "title": "",
+                "content": "Bugune biraz havan kacik basladin, tersinden kalkmis gibi. Bu hallerini de gormek cok hosuma gidiyor, cunku hep iyi, hep mutlu olmak zorunda degilsin. Huysuz, somurtkan, ne olursa ol - bunlar da senin bir parcan ve ben her halini seviyorum. Seni hala taniyor oldugumu hatirlatiyor bana, sanki uzun zamandir tanimisiz da her ruh halini biliyormusum gibi. \n\n Ayrica bugun spotify blendimizi baslattik. Asla bitmeyecek olmasi ve her gun yeni ortak sarkilar gorecegimi gormek cok guzel. Hepsini bir yerde toplucam ki kaybolmasin hehe.",
+                "image": "img/blend.png"
+            },
+            {
+                "date": "2025-02-04",
+                "title": "",
+                "content": "Cok gulen cok aglarmis? O an gereksiz basladigini dusundugum bir tartisma yasadik. Gece baslamis olmasina ragmen ertesi gune kadar uzadi (ben ayni gundeydim?). Ben aciklamaya calistigimi dusunurken uzattigimi farkettim, sen farkettirdin. Bazen normalimizde yaptigimiz seyler bile karsi tarafi daha cok yorabiliyor. Her seyi aciklamaya calismak, her detayi nasil dusundugumu anlatmak istememin seni ne kadar yorabilecegini dusunemedim. Umarim boylesine bir anlasmazligi bir daha yasamayiz cunku hic guzel hissettirmiyor.",
+                "image": "img/depressed.jpg"
+            },
+            {
+                "date": "2025-02-05",
+                "title": "",
+                "content": "Her tartismamiz boyle olursa, her ne kadar kotu hissettirse de, sana daha da asik/hayran olma scaleimin ucunu tutamayacagim sevgilim, onu farkettim. Ikimiz de birbirimizden emin olabilsek kendimizden emin olabildigimiz kadar, hic boyle olumsuz anlara takilmayacagiz o kadar iyi biliyorum ki; ama o kadar da kolay olmuyor bazi seyler. \n\n Tartismayi sonlandirip aramizi duzelttik ama ben nedense hala etkisini atamadim uzerimden. Seninle paylasmaya da cekiniyorum, cunku en buyuk sikayetci oldugun konu uzatiyor olmam. Kendi kendime overthinking perileriyle ugrasip atlatmaya calisiyorum. Bir gun bunun fazla geleceginden korkuyorum, ama kendimi biliyorum ve guveniyorum, alisacagim.",
+                "image": ""
+            },
+            {
+                "date": "2025-02-06",
+                "title": "",
+                "content": "Bugun butun gun birbirimizi ozlemeye doyamadik. O kadar yanimda istiyorum ki seni, o kadar bir sarilabilsem her sey gecicekmis gibi geliyor ki... ",
+                "image": "img/ily.png"
+            },
+            {
+                "date": "2025-02-07",
+                "title": "",
+                "content": "Bazen bana gore o kadar mantiksiz seylere o kadar hizli geliriyoruz ki, anlamlandiramiyorum. Bunu sadece sen yapiyorsun diye demiyorum, ben de yapiyorum. Daha dun birbirimizi bu kadar ozlerken, nasil bu kadar uzaklasabiliyoruz birbirimizden? Neden hot cold bir iliski icerisindeymisiz gibi hissettigimi de cozemiyorum.",
+                "image": "img/overthink.jpg"
+            },
+            {
+                "date": "2025-02-08",
+                "title": "",
+                "content": "90 Days Fiance izlerken tepkilerini paylasmana bayiliyorum! Trash TV zevkimizi birlikte yasayabiliyor olmamiz o kadar mukemmel ki, gercekten evlenip evden cikmasak mutlu ve huzurlu bir hayat gecirebilecegimizin garantisi bence bu. \n\n Oyun oynarken de inanilmaz odaklaniyorsun ahah, bazen oynamayi birakip sadece seni izlemek istiyorum. Kaslarini catip hesaplamalar yapiyorsun ya, bi de olunce kiziyorsun falan ahah. Yiyesim geliyor. Cok guzelsin.",
+                "image": "img/sarper.png"
+            },
+            {
+                "date": "2025-02-09",
+                "title": "",
+                "content": "7 Days to Die oynamaya basladik! Bilgisayarinin kaldirdigina o kadar sevindim ki, anlatamam. Kucucuk cocuga almayi en cok istedigi oyuncagi hediye etmissin gibi oldum ahah. Henuz bilmiyorum sevecek misin, oynamaya devam edecek misin; ama gecirdigimiz kisa saat bile cok hos vakit gecirtti bana. Gercekten boyle oyunlarla beraber yasarken ortaya cikabilecek tartismalarimizi ongorup, yasamadan cozebilecekmisiz gibi hissediyorum.",
+                "image": "img/7d2d.png"
+            },
+            {
+                "date": "2025-02-10",
+                "title": "",
+                "content": "Kalkip ise gitmem gereken ama yine sevgilime doyamadigim bir gun daha! O kadar guzel vakit geciriyorum ki sadece seni izlerken bile, uyandiginda orda olmak cok hosuma gidiyor. Seni uyuturken kitap da okudum, cok guzeldi.\n\n Cok sevdigini soyledigin bu the Ninth serisini okurken ilk tepkilerimi seninle paylasabilmek, senin bu dünyaya ve karakterlerine olan tutkunu görmek... Ayri bir bag kuruyor aramizda. Beni dahil ettigin icin cok tesekkur ederim. Kitaptaki her detayi seninle konusmak, teorilerimizi paylasmak icin sabirsizlaniyorum.",
+                "image": "img/gideon.png"
+            },
+            {
+                "date": "2025-02-11",
+                "title": "",
+                "content": "Bugun ise gitmedin, kar tatili ilan edildi. Hasta oluyorsun ve o kadar kiyamiyorum ki sana. Sesindeki yorgunlugu duymak, kendini iyi hissettirmeye calisirken bile zor konustuğunu farketmek icimi acitiyor. Yaninda olmak istiyorum, sarilmak istiyorum, uzandigin yerden kaldirmadan sana bakmak istiyorum. Sana bir kase corba yapabilmek, basina masaj yapmak, saclarini okşayabilmek... Aramizdaki bu uzak mesafe hic bu kadar zor gelmemisti. \n\n Yine dolu dolu bir gun gecirdik, hasta oldugun icin uyukladigin anlar oldu ve cok tatliydin. Uyukladigin anlarda seni izledim, derin derin nefes alişlarini dinledim. ",
+                "image": "img/istsnow.png"
+            },
+            {
+                "date": "2025-02-12",
+                "title": "",
+                "content": "Bugun sen beni uyuttun, gece yazdin, ve uyandirdin. Cok guzel bir sabah uyandim seninle sevgilim. O kadar seninle dolu dolu geciyor ki bazi gunlerim, durup not yazamiyorum. Bu da oyle bir gun oldu.",
+                "image": ""
+            },
+            {
+                "date": "2025-02-13",
+                "title": "",
+                "content": "Bana aldigin Istanbul baskili sweatshirt geldi bugun, hic bekledigim bir anda. Gun icerisinde seninle sohbet ederken bahsettigim kucuk detaylari hatirliyor olman o kadar hos ki. \n\nPeki en cok ne giymek istiyorum biliyor musun? Hani gelip senin polarli sweatlerini alicam falan diyoruz ya, onlar da hos tabii; ama ben en cok seninle battaniyeni giymek istiyorum. Her gun o kadar guzel sariyorsun ki kendini o battaniyene, bu bana hediye ettigin sweatshirti de sanki seninle birlikte o battaniyenin altindaymisim gibi giyiyorum. Yumusacik, sicacik, seninle. \n\n PS: AI art i ih sevmiyoruz askimm. Insanlarin emeklerini caldilar, artistler daha iyilerini hakediyorlar ve bu yuzden desteklemiyoruz. Bu sosyal davada bana katilir misin? (Bu bir evlenme teklifi degil, ama o da gelicek ehe)",
+                "image": "img/battaniye.png"
+            },
+            {
+                "date": "2025-02-14",
+                "title": "Valentine's Day",
+                "content": "Sinemaya gittim bugun, Groove'da gezdirdim seni. Her disari ciktigimda, her yeni bir seyleri deneyimledigimde aklimda oluyorsun. Filmde izledigim her sahnede simdi yanimda olsan ve seninle izlemek nasil olurdu diye dusunup durdum. Her ilginc sahnede sana donup tepkini gormek istedim. Film sonrasinda sokaklarda yururken seninle nasil bir gun geciririz diye dusunurken dayanamadim tek tek paylastim da. (Sahte) sevgililer gunu oldugu icin etrafta cok cift vardi, seni canim cekti; ama misil misil uyudugunu bilmek de o kadar hosuma gidiyor ki o sirada. Sanki birbirimizden uzakta degil de, ayni anda iki yerdeymisiz gibi hissediyorum. Birlikte olmadigimiz zamanlarda bile hayatimda bu kadar varsin. Iyi ki varsin.",
+                "image": "img/groove.png"
+            },
+            {
+                "date": "2025-02-15",
+                "title": "",
+                "content": "Bugun cok vakit geciremedik. :(\n\n OP!",
+                "image": ""
+            },
+            {
+                "date": "2025-02-16",
+                "title": "Base 585.000.333",
+                "content": "Seni ne kadar sevdigimi dusundugumu soyledim cumle arasinda, sen de ben de dusunuyorum dedin, sonra ne dusunuyoruz boyle aa dedik ve birbirimizi sevdigimizi soyledik hehe. Bugun baseimiz  585.000.333'e cikti! Yakinda matematigimin yetmedigi seviyeye gelicez. Grafigi logscale yapinca bile exponential gidiyor askim.. Neyse ki sonsuzluk fikri cok hos.",
+                "image": "img/baseprogress.png"
+            },
+            {
+                "date": "2025-02-17",
+                "title": "",
+                "content": "Guzel bir gun gecirdik, birbirimize seni seviyorum demeye doyamadigimiz gunlerden oldu. Her seni seviyorum deyisimizde sanki kalplerimiz konusuyor gibiyiz, her duyusumuzda ilk kez duyuyor gibiyiz. \n\n White lotus izlemeye basladik! Eski sezonlarini da izletmeyi cok istiyorum ama bazen surekli benim onerdigim seyleri izliyormusuz gibi geliyor; ama o kadar bayiliyorum ki tepkilerini izlemeye. Heyecanlaniyorum acaba benim verdigim tepkileri de vericek misin acaba ayni mi dusunuyoruz diye. Bazen o kadar farkli bir dusunce paylasiyorsun ki mesela, aa ben bunu hiuc dusunmemistim diyorum ve dusunme sekline asik oluyorum tekrar tekrar. Bakalim bu sezon o kadar guzel olucak mi hehe",
+                "image": "img/whitelotus.png"
+            },
+            {
+                "date": "2025-02-18",
+                "title": "",
+                "content": "ASKIM! Bana Your Turn almissin! Kizdim biraz daha yeni aldigim bi parfum varken gidip en buyugunden yeni bir parfum aldin diye.. Ama notun okadar guzel ki! Icine koymamislar geri ama olsun sen yazdin bana. Boyle kucuk sohbetlerimizde hep gelecegimizdeki evimizden bahssetmen cok hosuma gidiyor.",
+                "image": "img/yourturn.png"
+            },
+            {
+                "date": "2025-02-19",
+                "title": "",
+                "content": "Kar yagdi. Disarida cok zor zaman gecirdin, karda arabaniz bile hareket edemedi ittirmek zorunda kaldiniz. Sen orada telas içindeyken, ben sana hissettigin kadar yakin olamadim. Belki de uyumaya devam etmemeliydim ama zor durumda oldugunu dusunemedim. Keske seni almaya gelebilseydim ama elimden bir sey gelmeyecegini dusundugum icin ve senin halledecegini bildigim icin cok bir sey yazamadim. Ama bunlari sana hissettiremedim. Ben sana ilgi gostermedim ve endiselenmedigimi dusundun. O kadar yalniz hissetmissin ki o anda, bana sonra anlatinca ogrendim, ozur dilerim.\n\n Ben daha kendimi aciklayamadan bu sende buyuk seyleri tetikledi ve sana yeterince deger veremedigime karar verdin. Belki de gecmisten gelen yaralarin acildi, belki de uzalik zaten zorlarken bir de duygusal olarak uzak hissetmek  agir geldi. Seni anlayamadigim, yaninda olamadigim için kendimi cok careiz hissettim. Bu beni overthinking lande daha cok surukledi tabii. Her kelimeni, her tepkini tekrar tekrar dusundum Ikimiz de birbirimize en cok ihtiyacimiz olan anda uzak düştük sanki.\n\n En cok ne uzuyor biliyor musun? Kotu hissettigimde seninle konusmak istiyorum, sana anlatmak istiyorum cunku kollarinda huzuru bulacagimi biliyorum, ama konusamiyorum. Keske mola alabilsek.",
+                "image": "img/snowyday.png"
+            },
+            {
+                "date": "2025-02-20",
+                "title": "",
+                "content": "Ben cok kotu hissettim, sen cok yogundun, denk gelemedik. Keyfim kacik olunca senin de keyfin kaciyor. Sanki duygularimiz bir dominoya donusuyor: Ben uzulunce sen de uzuluyorsun, sen uzulunce ben daha da kotu hissediyorum. Bu karsilikli durum bazen beni korkutuyor, cunku senin mutlu olmani o kadar cok istiyorum ki... Hayatta en korktugum sey seni kirmak ve uzgun gormek; ama son zamanlarda yaptigim tek sey bu gibi hissediyorum.",
+                "image": ""
+            },
+            {
+                "date": "2025-02-21",
+                "title": "",
+                "content": "Blind karaoke yaptik! O kadar tatlisin ki, yerim. Malesef benim kafama silah dayasan soyleyebilecegim bir sarki yok,  ",
+                "image": "img/karaoke.png"
+            },
+            {
+                "date": "2025-02-22",
+                "title": "",
+                "content": "Bugun sevgililer gunu! -Aslinda yarin, ama sayfa acildiginda ilk o not gozukucek diye buraya yaziyorum, caktirma. Hayatimda oldugun icin o kadar mutluyum ki. Sana bunu soylemenin bin farkli yolunu dusunuyorum ama kelimeler yetersiz kaliyor. Her sabah seninle uyandigimda, her gece seninle uyuya kaldigimda, sana sahip oldugum icin kendimi çok sansli hissediyorum.\n\n Uzaktayiz belki ama birbirimize cok yakiniz. Seninle tanistigimdan beri hayatim rengarenk, o kadar sansliyim ki. Iyi ki varsin, iyi ki benimsin sevgilim. ",
+                "image": ""
+            },
+            {
+                "date": "2025-02-23",
+                "title": "",
+                "content": "LAX>IST Ucusumuza hos geldiniz. Su anda yerden 10,668 km yukaridayiz ve hava durumu hafif karli. Kabin sicakligi 23°C, ucus hizimiz 870 km/s. Yolculugumuz boyunca kalbinizin heyecandan hizli atmasi, gozlerinizin asktanparlamasi ve gulumsemeniz bekleniyor. Ucusumuz boyunca opucuk servisi devam edecek olup, inis yapacagimiz koordinatlari hala hesaplamaktayiz. Size keyifli bir yolculuk dileriz.",
+                "image": ""
+            },
+            {
+                "date": "2025-02-24",
+                "title": "",
+                "content": "Seni cok seviyorum.",
+                "image": "img/fiveyearplan.png"
+            }
+        ]
+    }
+}

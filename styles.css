@@ -1,0 +1,257 @@
+
+        
+:root {
+    --primary: #ff6b6b;
+    --secondary: #4ecdc4;
+    --dark: #2d3436;
+    --light: #f9f9f9;
+}
+
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    font-size: 11px;
+    padding: 0;
+    background: var(--light);
+    color: var(--dark);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+ 
+#map-container {
+    width: 100%;
+    min-height: 0; /* Allows container to shrink if needed */
+    position: relative;
+    overflow: hidden;
+}
+
+.world-map {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.flight-path-svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.flight-path {
+    fill: none;
+    stroke: #ddd;
+    stroke-width: 2;
+    stroke-dasharray: 4;
+}
+
+.completed-path {
+    fill: none;
+    stroke: var(--primary);
+    stroke-width: 1;
+    stroke-dasharray: 0;
+    transition: stroke-dasharray 0.5s ease;
+}
+.plane {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background: #e03838;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    transition: all 0.5s ease;
+}
+
+.plane i {
+    color: white;
+    font-size: 30px;
+    line-height: 15px;
+    width: 15px;
+    text-align: center;
+}
+
+.memory-card {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    width: 30%;
+    background: white;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.memory-card img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    object-fit: cover;
+}
+
+.memory-card .date {
+    color: var(--primary);
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.memory-card .content {
+    line-height: 11px;
+}
+
+.controls {
+    height: 100px;
+    margin-top: auto;  /* This pushes it to the bottom */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background: white;
+    box-shadow: 0 -4px 15px rgba(0,0,0,0.1);
+}
+
+.controls button {
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 25px;
+    background: var(--primary);
+    color: white;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    font-size: 16px;
+    min-width: 100px;
+}
+
+button:hover {
+    transform: translateY(-5px);
+    opacity: 0.9;
+}
+
+button i {
+    margin: 0 5px;
+}
+
+.date-display {
+    font-size: 1.2em;
+    text-align: center;
+    padding: 10px;
+    color: var(--dark);
+    font-weight: bold;
+}
+
+.loading-container {
+    position: fixed;
+    top: 200;
+    left: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.loading-bar {
+    width: 300px;
+    height: 10px;
+    background: #f3f3f3;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.loading-progress {
+    width: 0%;
+    height: 100%;
+    background: var(--primary);
+    transition: width 10s linear;
+}
+
+.loading-text {
+    color: var(--primary);
+    font-size: 1.2em;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Seatbelt Screen */
+#seatbelt-screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: white;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 999;
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+#seatbelt-screen h1 {
+    font-size: 2em;
+    margin-bottom: 30px;
+    color: var(--primary);
+}
+
+/* Cloud Transition */
+.cloud-transition {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 998;
+    opacity: 0;
+    transition: opacity 2s ease;
+}
+
+.cloud {
+    position: absolute;
+    background: white;
+    border-radius: 50px;
+    animation: float 20s linear infinite;
+    opacity: 0.8;
+}
+
+@keyframes float {
+    0% { transform: translateX(100vw); }
+    100% { transform: translateX(-100%); }
+}
+
+/* Path Dots */
+.day-dot {
+    fill: var(--primary);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+ 
+/* Main content initially hidden */
+#main-content {
+    opacity: 0;
+    transition: opacity 1s ease;
+    background-color: #6d6d6d;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
